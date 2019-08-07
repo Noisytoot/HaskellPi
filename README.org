@@ -1,0 +1,6 @@
+#+TITLE: HaskellPi
+#+AUTHOR: noisytoot
+* What is LuaPi?
+  A pi calculator written in Haskell, using the Lebniz formula
+  I have also written the [[https://github.com/Noisytoot/LuaPi][same thing in Lua]], both programs output values close to pi,
+  but strangely the results of HaskellPi and LuaPi are different even when the arguments are the same.
