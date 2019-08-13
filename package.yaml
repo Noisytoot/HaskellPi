@@ -1,5 +1,5 @@
 name:                HaskellPi
-version:             0.1.0.0
+version:             0.1.0.1
 github:              "noisytoot/HaskellPi"
 license:             GPL-3.0-or-later
 author:              "noisytoot"
